@@ -32,7 +32,7 @@
 /build/
 
 # Web related
-lib/generated_plugin_registrant.dart
+../../youtube_firebase_http_request-main/lib-ori/generated_plugin_registrant.dart
 
 # Symbolication related
 app.*.symbols
